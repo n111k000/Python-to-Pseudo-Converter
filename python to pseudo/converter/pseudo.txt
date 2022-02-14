@@ -1,0 +1,6 @@
+izlaz("Unesi broj")
+ulaz(a)
+izlaz('Unesi slovo')
+ulaz(b)
+
+izlaz(a, b)
